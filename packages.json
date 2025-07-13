@@ -1,0 +1,10 @@
+[
+   {
+      "name": "geo_utils",
+      "url": "https://github.com/acidlang/geo_utils.git",
+      "tags": ["animation", "geometry", "animation-mode"],
+      "description": "A utility library for geometric operations in animation mode.",
+      "license": "MIT",
+      "website": "https://github.com/acidlang/geo_utils"
+   }
+]
